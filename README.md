@@ -1,1 +1,1 @@
-"# recetario" 
+# recetario
